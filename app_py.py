@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "include_colab_link": True
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -139,7 +139,8 @@
         "        predict(model, X, preprocessor, input_df, categorical_cols)\n",
         "\n",
         "else:\n",
-        "    st.write('Aguardando upload do arquivo...')"
+        "    st.write('Aguardando upload do arquivo...')",
+        ""
       ],
       "metadata": {
         "colab": {
@@ -148,7 +149,7 @@
         "id": "VaSJEdjbRkdS",
         "outputId": "8a046e82-9f69-4694-8852-74fc2dd91bf4"
       },
-      "execution_count": None,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -162,6 +163,21 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!streamlit run app.py"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wQ9ddjkWQ8r5",
+        "outputId": "6d1d4b13-3a8e-43fe-92ef-5ddbc18d0a3e"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
