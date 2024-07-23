@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -149,7 +149,7 @@
         "id": "VaSJEdjbRkdS",
         "outputId": "8a046e82-9f69-4694-8852-74fc2dd91bf4"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
@@ -176,7 +176,7 @@
         "id": "wQ9ddjkWQ8r5",
         "outputId": "6d1d4b13-3a8e-43fe-92ef-5ddbc18d0a3e"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": []
     }
   ]
