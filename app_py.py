@@ -139,8 +139,10 @@
         "        predict(model, X, preprocessor, input_df, categorical_cols)\n",
         "\n",
         "else:\n",
-        "    st.write('Aguardando upload do arquivo...')",
-        ""
+        "    st.write('Aguardando upload do arquivo...')\n",
+        "\n",
+        "# Executar o aplicativo Streamlit\n",
+        "!streamlit run --server.port $PORT app.py"
       ],
       "metadata": {
         "colab": {
@@ -163,21 +165,6 @@
           ]
         }
       ]
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "!streamlit run app.py"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "wQ9ddjkWQ8r5",
-        "outputId": "6d1d4b13-3a8e-43fe-92ef-5ddbc18d0a3e"
-      },
-      "execution_count": None,
-      "outputs": []
     }
   ]
 }
