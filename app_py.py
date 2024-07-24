@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "include_colab_link": True
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
