@@ -2,10 +2,6 @@
   "nbformat": 4,
   "nbformat_minor": 0,
   "metadata": {
-    "colab": {
-      "provenance": [],
-      "include_colab_link": True
-    },
     "kernelspec": {
       "name": "python3",
       "display_name": "Python 3"
@@ -142,9 +138,6 @@
         "    st.write('Aguardando upload do arquivo...')"
       ],
       "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
         "id": "VaSJEdjbRkdS",
         "outputId": "28eb6bb0-1dc6-4209-843d-780c7c457fec"
       },
