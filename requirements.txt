@@ -30,14 +30,3 @@ pytz==2023.4
 requests==2.31.0
 rsa==4.9
 scikit-learn==1.2.2
-scipy==1.11.4
-six==1.16.0
-sqlalchemy==2.0.31
-tensorboard==2.15.2
-tensorflow-estimator==2.15.0
-torch==2.3.1+cu121
-torchsummary==1.5.1
-torchtext==0.18.0
-torchvision==0.18.1+cu121
-tqdm==4.66.4
-urllib3==2.0.7
